@@ -1,0 +1,14 @@
+{
+  "name": "kit-redes-sociais",
+  "owner": {
+    "name": "Eric"
+  },
+  "plugins": [
+    {
+      "name": "kit-redes-sociais",
+      "source": "./",
+      "description": "Kit enxuto de skills para marketing em redes sociais (Instagram e TikTok): ideação, pilares, tendências, roteiros, carrossel, legenda, hashtags, copy e criativos de anúncio. Curadoria de seis pacotes de código aberto, sem vínculo com ferramentas pagas.",
+      "version": "0.2.0"
+    }
+  ]
+}

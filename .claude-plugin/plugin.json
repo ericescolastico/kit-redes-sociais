@@ -1,0 +1,16 @@
+{
+  "name": "kit-redes-sociais",
+  "version": "0.2.0",
+  "description": "Kit enxuto de skills para marketing em redes sociais (Instagram e TikTok): ideação, pilares, tendências, roteiros, carrossel, legenda, hashtags, copy e criativos de anúncio. Curadoria de seis pacotes de código aberto, sem vínculo com ferramentas pagas.",
+  "author": {
+    "name": "Eric"
+  },
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "instagram",
+    "tiktok",
+    "marketing",
+    "pt-br"
+  ]
+}
